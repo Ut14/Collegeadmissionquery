@@ -1,5 +1,6 @@
 College Admission Chatbot
 Overview
+
 This Python script implements a simple chatbot designed to assist users with inquiries related to college admissions. The chatbot provides information on admission procedures, requirements, deadlines, and other related topics. It utilizes natural language processing techniques such as TF-IDF vectorization and cosine similarity to match user queries with predefined responses.
 
 Features
